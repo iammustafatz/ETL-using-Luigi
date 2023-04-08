@@ -7,7 +7,7 @@ This repository contains an ETL (Extract, Transform, Load) pipeline implemented 
 
 To run the pipeline, first clone the notebook in this repository to your local machine or Google colab and run the python notebook:
 
-```http
+```
   ETL_using_Luigi.ipynb
 ```
 
